@@ -1,6 +1,6 @@
 # Doji InstaBot
 
-Discord bot that mirrors evening Instagram food posts into a Discord channel.
+Discord bot that mirrors latest Instagram posts from a specific user on a Discord channel.
 
 ## Features
 
